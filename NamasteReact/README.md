@@ -1,3 +1,13 @@
+step 1-Run json-server --watch BodyMock.json command on terminal to start json server
+
+step 2 -Run npm start on another terminal to start the project
+
+
+
+
+
+
+
 namaste react notes----------
 -> by using context we can avoid props drilling
 
