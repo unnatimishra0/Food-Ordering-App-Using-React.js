@@ -2,6 +2,10 @@ step 1-Run json-server --watch BodyMock.json command on terminal to start json s
 
 step 2 -Run npm start on another terminal to start the project
 
+step 3- Run npm install --save-dev parcel @parcel/config-default
+
+step 4- Run  npx parcel index.html
+
 
 
 
